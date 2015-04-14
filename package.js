@@ -12,5 +12,5 @@ Npm.depends( {
 Package.onUse(function(api) {
   api.versionsFrom('0.9.0');
   api.addFiles('classcraft:googleapis.js', "server");
-  if(api.export) api.export('googleapis');
+  if(api.export) api.export('googleapis','server');
 });
