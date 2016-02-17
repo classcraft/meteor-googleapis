@@ -1,4 +1,4 @@
-This is a wrapper around the NPM package `googleapis`. The version of `googleapis` used is 1.0.16. 
+This is a wrapper around the NPM package `googleapis`. The version of `googleapis` used is 2.1.7. 
 
 ## Installation
 `meteor add classcraft:googleapis`
